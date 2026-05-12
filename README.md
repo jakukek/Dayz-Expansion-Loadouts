@@ -1,5 +1,5 @@
 ### 100% Vanilla + Expansion items only  
-**All loadouts were reviewed and cleaned up using:  **
+**All loadouts were reviewed and cleaned up using:**  
 https://dayzexpansion.com/tools/custom/expansion-loadout-builder  
   
 If you prefer you can remove the cargo arrays from each loadout and tweak anything you want  
