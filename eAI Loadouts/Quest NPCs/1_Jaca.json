@@ -1,0 +1,202 @@
+{
+  "ClassName": "",
+  "Chance": 1,
+  "Quantity": {
+    "Min": 0,
+    "Max": 0
+  },
+  "Health": [],
+  "InventoryAttachments": [
+    {
+      "SlotName": "Body",
+      "Items": [
+        {
+          "ClassName": "HuntingJacket_Brown",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Legs",
+      "Items": [
+        {
+          "ClassName": "HunterPants_Summer",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Feet",
+      "Items": [
+        {
+          "ClassName": "JungleBoots_Brown",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Shoulder",
+      "Items": [
+        {
+          "ClassName": "CZ527_Black",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Mag_CZ527_5rnd",
+                  "Chance": 1,
+                  "Quantity": {
+                    "Min": 0,
+                    "Max": 0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "ConstructionPartsBuilt": [],
+                  "Sets": []
+                },
+                {
+                  "ClassName": "HuntingOptic",
+                  "Chance": 1,
+                  "Quantity": {
+                    "Min": 0,
+                    "Max": 0
+                  },
+                  "Health": [
+                    {
+                      "Min": 0.7,
+                      "Max": 1,
+                      "Zone": ""
+                    }
+                  ],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "ConstructionPartsBuilt": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Vest",
+      "Items": [
+        {
+          "ClassName": "HuntingVest",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Headgear",
+      "Items": [
+        {
+          "ClassName": "BoonieHat_DPM",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    }
+  ],
+  "InventoryCargo": [],
+  "ConstructionPartsBuilt": [],
+  "Sets": []
+}

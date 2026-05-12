@@ -1,0 +1,86 @@
+{
+  "ClassName": "",
+  "Chance": 1,
+  "Quantity": {
+    "Min": 0,
+    "Max": 0
+  },
+  "Health": [],
+  "InventoryAttachments": [
+    {
+      "SlotName": "Body",
+      "Items": [
+        {
+          "ClassName": "Hoodie_Black",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Legs",
+      "Items": [
+        {
+          "ClassName": "ShortJeans_Black",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Feet",
+      "Items": [
+        {
+          "ClassName": "HikingBootsLow_Black",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    }
+  ],
+  "InventoryCargo": [],
+  "ConstructionPartsBuilt": [],
+  "Sets": []
+}

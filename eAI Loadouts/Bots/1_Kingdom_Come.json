@@ -1,0 +1,430 @@
+{
+    "ClassName": "",
+    "Chance": 1,
+    "Quantity": {
+        "Min": 0,
+        "Max": 0
+    },
+    "Health": [],
+    "InventoryAttachments": [
+        {
+            "SlotName": "Body",
+            "Items": [
+                {
+                    "ClassName": "Chainmail",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Legs",
+            "Items": [
+                {
+                    "ClassName": "Chainmail_Leggings",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Feet",
+            "Items": [
+                {
+                    "ClassName": "MedievalBoots",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Gloves",
+            "Items": [
+                {
+                    "ClassName": "LeatherGloves_Black",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Hips",
+            "Items": [
+                {
+                    "ClassName": "LeatherBelt_Black",
+                    "Chance": 0,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Headgear",
+            "Items": [
+                {
+                    "ClassName": "GreatHelm",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "WitchHood_Red",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "WitchHood_Brown",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "WitchHood_Black",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "WitchHoodCoif_Red",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "WitchHoodCoif_Brown",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "WitchHoodCoif_Black",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Headdress_Wolf",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Chainmail_Coif",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "NorseHelm",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Vest",
+            "Items": [
+                {
+                    "ClassName": "Chestplate",
+                    "Chance": 0.5,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.2,
+                            "Max": 0.82,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        }
+    ],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": [
+        {
+            "ClassName": "WEAPON",
+            "Chance": 1,
+            "Quantity": {
+                "Min": 0,
+                "Max": 0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Melee",
+                    "Items": [
+                        {
+                            "ClassName": "Sword",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.2,
+                                    "Max": 0.82,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "WEAPON",
+            "Chance": 1,
+            "Quantity": {
+                "Min": 0,
+                "Max": 0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Melee",
+                    "Items": [
+                        {
+                            "ClassName": "Mace",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.2,
+                                    "Max": 0.82,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        }
+    ]
+}

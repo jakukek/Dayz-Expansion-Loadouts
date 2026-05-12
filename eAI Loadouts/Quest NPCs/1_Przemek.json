@@ -1,0 +1,322 @@
+{
+  "ClassName": "",
+  "Chance": 1,
+  "Quantity": {},
+  "Health": [],
+  "InventoryAttachments": [
+    {
+      "SlotName": "Eyes",
+      "Items": [
+        {
+          "ClassName": "AviatorGlasses",
+          "Chance": 1,
+          "Quantity": {},
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Body",
+      "Items": [
+        {
+          "ClassName": "GorkaEJacket_Autumn",
+          "Chance": 1,
+          "Quantity": {},
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Vest",
+      "Items": [
+        {
+          "ClassName": "PlateCarrierVest_Green",
+          "Chance": 1,
+          "Quantity": {},
+          "Health": [],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "PlateCarrierHolster_Green",
+                  "Chance": 1,
+                  "Quantity": {},
+                  "Health": [],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "Colt1911",
+                          "Chance": 1,
+                          "Quantity": {},
+                          "Health": [],
+                          "InventoryAttachments": [
+                            {
+                              "SlotName": "",
+                              "Items": [
+                                {
+                                  "ClassName": "Mag_1911_7rnd",
+                                  "Chance": 1,
+                                  "Quantity": {},
+                                  "Health": [],
+                                  "InventoryAttachments": [
+                                    
+                                  ],
+                                  "InventoryCargo": [],
+                                  "ConstructionPartsBuilt": [],
+                                  "Sets": []
+                                }
+                              ]
+                            }
+                          ],
+                          "InventoryCargo": [],
+                          "ConstructionPartsBuilt": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "ConstructionPartsBuilt": [],
+                  "Sets": []
+                }
+              ]
+            },
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "PlateCarrierPouches_Green",
+                  "Chance": 1,
+                  "Quantity": {},
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "ConstructionPartsBuilt": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Gloves",
+      "Items": [
+        {
+          "ClassName": "OMNOGloves_Gray",
+          "Chance": 1,
+          "Quantity": {},
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Legs",
+      "Items": [
+        {
+          "ClassName": "GorkaPants_Autumn",
+          "Chance": 1,
+          "Quantity": {},
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Hips",
+      "Items": [
+        {
+          "ClassName": "MilitaryBelt",
+          "Chance": 1,
+          "Quantity": {},
+          "Health": [],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "NylonKnifeSheath",
+                  "Chance": 1,
+                  "Quantity": {},
+                  "Health": [],
+                  "InventoryAttachments": [
+                    {
+                      "SlotName": "",
+                      "Items": [
+                        {
+                          "ClassName": "AK_Bayonet",
+                          "Chance": 1,
+                          "Quantity": {},
+                          "Health": [],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "ConstructionPartsBuilt": [],
+                          "Sets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "InventoryCargo": [],
+                  "ConstructionPartsBuilt": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Feet",
+      "Items": [
+        {
+          "ClassName": "CombatBoots_Green",
+          "Chance": 1,
+          "Quantity": {},
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Back",
+      "Items": [
+        {
+          "ClassName": "TortillaBag",
+          "Chance": 1,
+          "Quantity": {},
+          "Health": [],
+          "InventoryAttachments": [
+            {
+              "SlotName": "",
+              "Items": [
+                {
+                  "ClassName": "Hatchet",
+                  "Chance": 1,
+                  "Quantity": {},
+                  "Health": [],
+                  "InventoryAttachments": [],
+                  "InventoryCargo": [],
+                  "ConstructionPartsBuilt": [],
+                  "Sets": []
+                }
+              ]
+            }
+          ],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Dogtag",
+      "Items": [
+        {
+          "ClassName": "Armband_Expansion_Chernarus",
+          "Chance": 1,
+          "Quantity": {},
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+    "SlotName": "Shoulder",
+    "Items": [
+      {
+          "ClassName": "akm",
+          "Chance": 1,
+          "Quantity": {
+              "Min": 0,
+              "Max": 0
+          },
+          "Health": [],
+          "InventoryAttachments": [
+            {
+                "SlotName": "",
+                "Items": [
+                    {
+                        "ClassName": "mag_akm_30rnd",
+                        "Chance": 1,
+                        "Quantity": {
+                            "Min": 0,
+                            "Max": 0
+                        },
+                        "Health": [],
+                        "InventoryAttachments": [],
+                        "InventoryCargo": [],
+                        "ConstructionPartsBuilt": [],
+                        "Sets": []
+                    },
+                    {
+                        "ClassName": "AK74_Hndgrd",
+                        "Chance": 1,
+                        "Quantity": {
+                            "Min": 0,
+                            "Max": 0
+                        },
+                        "Health": [],
+                        "InventoryAttachments": [],
+                        "InventoryCargo": [],
+                        "ConstructionPartsBuilt": [],
+                        "Sets": []
+                    },
+                    {
+                        "ClassName": "AK74_WoodBttstck",
+                        "Chance": 1,
+                        "Quantity": {
+                            "Min": 0,
+                            "Max": 0
+                        },
+                        "Health": [],
+                        "InventoryAttachments": [],
+                        "InventoryCargo": [],
+                        "ConstructionPartsBuilt": [],
+                        "Sets": []
+                    }
+                ]
+            }
+          ],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    }
+  ],
+  "InventoryCargo": [],
+  "ConstructionPartsBuilt": [],
+  "Sets": []
+}

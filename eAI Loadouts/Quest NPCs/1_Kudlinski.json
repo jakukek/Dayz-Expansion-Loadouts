@@ -1,0 +1,110 @@
+{
+  "ClassName": "",
+  "Chance": 1,
+  "Quantity": {
+    "Min": 0,
+    "Max": 0
+  },
+  "Health": [],
+  "InventoryAttachments": [
+    {
+      "SlotName": "Headgear",
+      "Items": [
+        {
+          "ClassName": "MilitaryBeret_Red",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Body",
+      "Items": [
+        {
+          "ClassName": "BDUJacket",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Legs",
+      "Items": [
+        {
+          "ClassName": "BDUPants",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Feet",
+      "Items": [
+        {
+          "ClassName": "MilitaryBoots_Black",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    }
+  ],
+  "InventoryCargo": [],
+  "ConstructionPartsBuilt": [],
+  "Sets": []
+}

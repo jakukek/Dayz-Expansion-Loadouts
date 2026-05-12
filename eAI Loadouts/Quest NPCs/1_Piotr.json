@@ -1,0 +1,86 @@
+{
+  "ClassName": "",
+  "Chance": 1,
+  "Quantity": {},
+  "Health": [],
+  "InventoryAttachments": [
+    {
+      "SlotName": "Eyes",
+      "Items": [
+        {
+          "ClassName": "AviatorGlasses",
+          "Chance": 1,
+          "Quantity": {},
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Body",
+      "Items": [
+        {
+          "ClassName": "ExpansionRidersJacketFogEaters",
+          "Chance": 1,
+          "Quantity": {},
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Legs",
+      "Items": [
+        {
+          "ClassName": "HunterPants_Spring",
+          "Chance": 1,
+          "Quantity": {},
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Feet",
+      "Items": [
+        {
+          "ClassName": "TTSKOBoots",
+          "Chance": 1,
+          "Quantity": {},
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Dogtag",
+      "Items": [
+        {
+          "ClassName": "Armband_Expansion_Poland",
+          "Chance": 1,
+          "Quantity": {},
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    }
+  ],
+  "InventoryCargo": [],
+  "ConstructionPartsBuilt": [],
+  "Sets": []
+}

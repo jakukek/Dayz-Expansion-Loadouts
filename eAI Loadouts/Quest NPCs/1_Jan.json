@@ -1,0 +1,253 @@
+{
+  "ClassName": "",
+  "Chance": 1,
+  "Quantity": {
+    "Min": 0,
+    "Max": 0
+  },
+  "Health": [],
+  "InventoryAttachments": [
+    {
+      "SlotName": "Body",
+      "Items": [
+        {
+          "ClassName": "Sweater_ChristmasBlue",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "Sweater_ChristmasGreen",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "Sweater_ChristmasRed",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Legs",
+      "Items": [
+        {
+          "ClassName": "Jeans_Black",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Feet",
+      "Items": [
+        {
+          "ClassName": "HikingBootsLow_Grey",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Headgear",
+      "Items": [
+        {
+          "ClassName": "SantasHat",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Mask",
+      "Items": [
+        {
+          "ClassName": "SantasBeard",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Gloves",
+      "Items": [
+        {
+          "ClassName": "WoolGloves_ChristmasBlue",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "WoolGloves_ChristmasRed",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "WoolGlovesFingerless_ChristmasBlue",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "WoolGlovesFingerless_ChristmasRed",
+          "Chance": 1,
+          "Quantity": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Health": [
+            {
+              "Min": 0.7,
+              "Max": 1,
+              "Zone": ""
+            }
+          ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    }
+  ],
+  "InventoryCargo": [],
+  "ConstructionPartsBuilt": [],
+  "Sets": []
+}
