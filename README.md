@@ -13,8 +13,8 @@ Tier 2 - Bandit
 Tier 3 - Raider  
 Tier 4 - Military Gorka/Military TTSKO/Military USA  
 Special Forces - Guerilla/Mercenary/General Strangers Boss  
-Medieval: Kingdom Come  
+Medieval - Kingdom Come  
   
-Object: Deerstand Sniper/Hunter/Police/Zomo Police  
-Event: Realistic Player/Treasure Hunter/Witch  
-Quest NPCs loadouts: Dziad/Ewa/Jaca/Jan/Kudlinski/Piotr/Przemek/Waldek  
+Object - Deerstand Sniper/Hunter/Police/Zomo Police  
+Event - Realistic Player/Treasure Hunter/Witch  
+Quest NPCs loadouts - Dziad/Ewa/Jaca/Jan/Kudlinski/Piotr/Przemek/Waldek  
