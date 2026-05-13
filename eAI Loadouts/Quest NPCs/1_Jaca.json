@@ -1,10 +1,7 @@
 {
   "ClassName": "",
   "Chance": 1,
-  "Quantity": {
-    "Min": 0,
-    "Max": 0
-  },
+  "Quantity": {},
   "Health": [],
   "InventoryAttachments": [
     {
@@ -13,17 +10,8 @@
         {
           "ClassName": "HuntingJacket_Brown",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -37,17 +25,8 @@
         {
           "ClassName": "HunterPants_Summer",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -61,17 +40,8 @@
         {
           "ClassName": "JungleBoots_Brown",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -85,17 +55,8 @@
         {
           "ClassName": "CZ527_Black",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [
             {
               "SlotName": "",
@@ -103,17 +64,8 @@
                 {
                   "ClassName": "Mag_CZ527_5rnd",
                   "Chance": 1,
-                  "Quantity": {
-                    "Min": 0,
-                    "Max": 0
-                  },
-                  "Health": [
-                    {
-                      "Min": 0.7,
-                      "Max": 1,
-                      "Zone": ""
-                    }
-                  ],
+                  "Quantity": {},
+                  "Health": [],
                   "InventoryAttachments": [],
                   "InventoryCargo": [],
                   "ConstructionPartsBuilt": [],
@@ -122,17 +74,8 @@
                 {
                   "ClassName": "HuntingOptic",
                   "Chance": 1,
-                  "Quantity": {
-                    "Min": 0,
-                    "Max": 0
-                  },
-                  "Health": [
-                    {
-                      "Min": 0.7,
-                      "Max": 1,
-                      "Zone": ""
-                    }
-                  ],
+                  "Quantity": {},
+                  "Health": [],
                   "InventoryAttachments": [],
                   "InventoryCargo": [],
                   "ConstructionPartsBuilt": [],
@@ -153,17 +96,8 @@
         {
           "ClassName": "HuntingVest",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -177,17 +111,8 @@
         {
           "ClassName": "BoonieHat_DPM",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
