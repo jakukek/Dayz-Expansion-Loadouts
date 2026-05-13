@@ -1,10 +1,7 @@
 {
   "ClassName": "",
   "Chance": 1.0,
-  "Quantity": {
-    "Min": 0.0,
-    "Max": 0.0
-  },
+  "Quantity": {},
   "Health": [],
   "InventoryAttachments": [
     {
@@ -13,10 +10,7 @@
         {
           "ClassName": "HeadTorch_Grey",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -31,10 +25,7 @@
                 {
                   "ClassName": "Battery9V",
                   "Chance": 1.0,
-                  "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                  },
+                  "Quantity": {},
                   "Health": [
                     {
                       "Min": 0.2,
@@ -62,10 +53,7 @@
         {
           "ClassName": "PoliceCap",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -81,10 +69,7 @@
         {
           "ClassName": "DirtBikeHelmet_Police",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -105,10 +90,7 @@
         {
           "ClassName": "BushlatPoliceJacket_Blue",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -124,10 +106,7 @@
         {
           "ClassName": "PoliceJacket",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -148,10 +127,7 @@
         {
           "ClassName": "MilitaryBelt",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -166,10 +142,7 @@
                 {
                   "ClassName": "PlateCarrierHolster_Black",
                   "Chance": 1.0,
-                  "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                  },
+                  "Quantity": {},
                   "Health": [
                     {
                       "Min": 0.2,
@@ -197,10 +170,7 @@
         {
           "ClassName": "PolicePants",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -221,10 +191,7 @@
         {
           "ClassName": "CombatBoots_Grey",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -244,10 +211,7 @@
     {
       "ClassName": "expansionsupplysignal",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -263,10 +227,7 @@
     {
       "ClassName": "ExpansionCarKey",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -282,10 +243,7 @@
     {
       "ClassName": "ExpansionCodeLock",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -301,10 +259,7 @@
     {
       "ClassName": "NailBox",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -320,10 +275,7 @@
     {
       "ClassName": "WeaponCleaningKit",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -339,10 +291,7 @@
     {
       "ClassName": "BandageDressing",
       "Chance": 1.0,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -358,10 +307,7 @@
     {
       "ClassName": "GlassBottle",
       "Chance": 1.0,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 1.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -377,10 +323,7 @@
     {
       "ClassName": "Matchbox",
       "Chance": 0.3,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 1.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -396,10 +339,7 @@
     {
       "ClassName": "Paper",
       "Chance": 0.5,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -415,10 +355,7 @@
     {
       "ClassName": "Pen_Black",
       "Chance": 0.5,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -434,10 +371,7 @@
     {
       "ClassName": "PorkCan",
       "Chance": 0.5,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -453,10 +387,7 @@
     {
       "ClassName": "Pajka",
       "Chance": 0.5,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -472,10 +403,7 @@
     {
       "ClassName": "AmmoBox_380_35rnd",
       "Chance": 0.5,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -494,10 +422,7 @@
     {
       "ClassName": "WEAPON",
       "Chance": 1.0,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [],
       "InventoryAttachments": [
         {
@@ -506,10 +431,7 @@
             {
               "ClassName": "PoliceBaton",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -530,10 +452,7 @@
             {
               "ClassName": "CZ61",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -548,10 +467,7 @@
                     {
                       "ClassName": "Mag_CZ61_20Rnd",
                       "Chance": 1.0,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -578,10 +494,7 @@
         {
           "ClassName": "Mag_CZ61_20Rnd",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -597,10 +510,7 @@
         {
           "ClassName": "Mag_CZ61_20Rnd",
           "Chance": 0.3,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -620,10 +530,7 @@
     {
       "ClassName": "WEAPON",
       "Chance": 1.0,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [],
       "InventoryAttachments": [
         {
@@ -632,10 +539,7 @@
             {
               "ClassName": "PoliceBaton",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -656,10 +560,7 @@
             {
               "ClassName": "MakarovIJ70",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -674,10 +575,7 @@
                     {
                       "ClassName": "Mag_IJ70_8Rnd",
                       "Chance": 1.0,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -704,10 +602,7 @@
         {
           "ClassName": "Mag_IJ70_8Rnd",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -723,10 +618,7 @@
         {
           "ClassName": "Mag_IJ70_8Rnd",
           "Chance": 0.3,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -746,10 +638,7 @@
     {
       "ClassName": "WEAPON",
       "Chance": 1.0,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [],
       "InventoryAttachments": [
         {
@@ -758,10 +647,7 @@
             {
               "ClassName": "PoliceBaton",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -782,10 +668,7 @@
             {
               "ClassName": "Expansion_Taser_Black",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -800,10 +683,7 @@
                     {
                       "ClassName": "Mag_Expansion_Taser",
                       "Chance": 1.0,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -830,10 +710,7 @@
         {
           "ClassName": "Mag_Expansion_Taser",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -849,10 +726,7 @@
         {
           "ClassName": "Mag_Expansion_Taser",
           "Chance": 0.3,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
