@@ -1,10 +1,7 @@
 {
   "ClassName": "",
   "Chance": 1,
-  "Quantity": {
-    "Min": 0,
-    "Max": 0
-  },
+  "Quantity": {},
   "Health": [],
   "InventoryAttachments": [
     {
@@ -13,17 +10,8 @@
         {
           "ClassName": "Hoodie_Black",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -37,17 +25,8 @@
         {
           "ClassName": "ShortJeans_Black",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -61,17 +40,8 @@
         {
           "ClassName": "HikingBootsLow_Black",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
