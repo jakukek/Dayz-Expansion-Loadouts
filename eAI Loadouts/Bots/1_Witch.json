@@ -1,10 +1,7 @@
 {
   "ClassName": "",
   "Chance": 1.0,
-  "Quantity": {
-    "Min": 0.0,
-    "Max": 0.0
-  },
+  "Quantity": {},
   "Health": [],
   "InventoryAttachments": [
     {
@@ -13,10 +10,7 @@
         {
           "ClassName": "CrookedNose",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -37,10 +31,7 @@
         {
           "ClassName": "EyeMask_Black",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -61,10 +52,7 @@
         {
           "ClassName": "WorkingGloves_Black",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -85,10 +73,7 @@
         {
           "ClassName": "Wellies_Black",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -109,10 +94,7 @@
         {
           "ClassName": "Shirt_PlaneBlack",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -133,10 +115,7 @@
         {
           "ClassName": "CargoPants_Black",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -157,10 +136,7 @@
         {
           "ClassName": "WitchHood_Black",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -181,10 +157,7 @@
         {
           "ClassName": "Broom_Birch",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
