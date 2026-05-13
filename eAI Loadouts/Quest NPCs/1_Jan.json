@@ -1,10 +1,7 @@
 {
   "ClassName": "",
   "Chance": 1,
-  "Quantity": {
-    "Min": 0,
-    "Max": 0
-  },
+  "Quantity": {},
   "Health": [],
   "InventoryAttachments": [
     {
@@ -13,17 +10,8 @@
         {
           "ClassName": "Sweater_ChristmasBlue",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -32,17 +20,8 @@
         {
           "ClassName": "Sweater_ChristmasGreen",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -51,17 +30,8 @@
         {
           "ClassName": "Sweater_ChristmasRed",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -75,17 +45,8 @@
         {
           "ClassName": "Jeans_Black",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -99,17 +60,8 @@
         {
           "ClassName": "HikingBootsLow_Grey",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -123,17 +75,8 @@
         {
           "ClassName": "SantasHat",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -147,17 +90,8 @@
         {
           "ClassName": "SantasBeard",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -171,17 +105,8 @@
         {
           "ClassName": "WoolGloves_ChristmasBlue",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -190,17 +115,8 @@
         {
           "ClassName": "WoolGloves_ChristmasRed",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -209,17 +125,8 @@
         {
           "ClassName": "WoolGlovesFingerless_ChristmasBlue",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
@@ -228,17 +135,8 @@
         {
           "ClassName": "WoolGlovesFingerless_ChristmasRed",
           "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
+          "Quantity": {},
+          "Health": [],
           "InventoryAttachments": [],
           "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
