@@ -1,10 +1,7 @@
 {
     "ClassName": "",
     "Chance": 1,
-    "Quantity": {
-        "Min": 0,
-        "Max": 0
-    },
+    "Quantity": {},
     "Health": [],
     "InventoryAttachments": [
         {
@@ -13,10 +10,7 @@
                 {
                     "ClassName": "Chainmail",
                     "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -37,10 +31,7 @@
                 {
                     "ClassName": "Chainmail_Leggings",
                     "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -61,10 +52,7 @@
                 {
                     "ClassName": "MedievalBoots",
                     "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -85,10 +73,7 @@
                 {
                     "ClassName": "LeatherGloves_Black",
                     "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -109,10 +94,7 @@
                 {
                     "ClassName": "LeatherBelt_Black",
                     "Chance": 0,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -133,10 +115,7 @@
                 {
                     "ClassName": "GreatHelm",
                     "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -152,10 +131,7 @@
                 {
                     "ClassName": "WitchHood_Red",
                     "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -171,10 +147,7 @@
                 {
                     "ClassName": "WitchHood_Brown",
                     "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -190,10 +163,7 @@
                 {
                     "ClassName": "WitchHood_Black",
                     "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -209,10 +179,7 @@
                 {
                     "ClassName": "WitchHoodCoif_Red",
                     "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -228,10 +195,7 @@
                 {
                     "ClassName": "WitchHoodCoif_Brown",
                     "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -247,10 +211,7 @@
                 {
                     "ClassName": "WitchHoodCoif_Black",
                     "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -266,10 +227,7 @@
                 {
                     "ClassName": "Headdress_Wolf",
                     "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -285,10 +243,7 @@
                 {
                     "ClassName": "Chainmail_Coif",
                     "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -304,10 +259,7 @@
                 {
                     "ClassName": "NorseHelm",
                     "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -328,10 +280,7 @@
                 {
                     "ClassName": "Chestplate",
                     "Chance": 0.5,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
+                    "Quantity": {},
                     "Health": [
                         {
                             "Min": 0.2,
@@ -353,10 +302,7 @@
         {
             "ClassName": "WEAPON",
             "Chance": 1,
-            "Quantity": {
-                "Min": 0,
-                "Max": 0
-            },
+            "Quantity": {},
             "Health": [],
             "InventoryAttachments": [
                 {
@@ -365,10 +311,7 @@
                         {
                             "ClassName": "Sword",
                             "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
+                            "Quantity": {},
                             "Health": [
                                 {
                                     "Min": 0.2,
@@ -391,10 +334,7 @@
         {
             "ClassName": "WEAPON",
             "Chance": 1,
-            "Quantity": {
-                "Min": 0,
-                "Max": 0
-            },
+            "Quantity": {},
             "Health": [],
             "InventoryAttachments": [
                 {
@@ -403,10 +343,7 @@
                         {
                             "ClassName": "Mace",
                             "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
+                            "Quantity": {},
                             "Health": [
                                 {
                                     "Min": 0.2,
