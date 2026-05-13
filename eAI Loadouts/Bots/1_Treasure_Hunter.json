@@ -1,10 +1,7 @@
 {
   "ClassName": "",
   "Chance": 1.0,
-  "Quantity": {
-    "Min": 0.0,
-    "Max": 0.0
-  },
+  "Quantity": {},
   "Health": [],
   "InventoryAttachments": [
     {
@@ -13,10 +10,7 @@
         {
           "ClassName": "HeadTorch_Grey",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -31,10 +25,7 @@
                 {
                   "ClassName": "Battery9V",
                   "Chance": 1.0,
-                  "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                  },
+                  "Quantity": {},
                   "Health": [
                     {
                       "Min": 0.2,
@@ -62,10 +53,7 @@
         {
           "ClassName": "DenimJacket",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -81,10 +69,7 @@
         {
           "ClassName": "BomberJacket_Black",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -100,10 +85,7 @@
         {
           "ClassName": "BomberJacket_Brown",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -119,10 +101,7 @@
         {
           "ClassName": "BomberJacket_Blue",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -138,10 +117,7 @@
         {
           "ClassName": "BomberJacket_Grey",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -157,10 +133,7 @@
         {
           "ClassName": "BomberJacket_Maroon",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -176,10 +149,7 @@
         {
           "ClassName": "BomberJacket_Olive",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -195,10 +165,7 @@
         {
           "ClassName": "BomberJacket_SkyBlue",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -219,10 +186,7 @@
         {
           "ClassName": "Jeans_Black",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -238,10 +202,7 @@
         {
           "ClassName": "Jeans_Blue",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -257,10 +218,7 @@
         {
           "ClassName": "Jeans_Brown",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -276,10 +234,7 @@
         {
           "ClassName": "Jeans_Green",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -295,10 +250,7 @@
         {
           "ClassName": "Jeans_Grey",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -314,10 +266,7 @@
         {
           "ClassName": "Jeans_BlueDark",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -338,10 +287,7 @@
         {
           "ClassName": "HikingBoots_Brown",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -357,10 +303,7 @@
         {
           "ClassName": "HikingBoots_Black",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -376,10 +319,7 @@
         {
           "ClassName": "HikingBoots_Blue",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -395,10 +335,7 @@
         {
           "ClassName": "HikingBoots_Beige",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -414,10 +351,7 @@
         {
           "ClassName": "HikingBoots_Grey",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -438,10 +372,7 @@
         {
           "ClassName": "LeatherGloves_Natural",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -457,10 +388,7 @@
         {
           "ClassName": "LeatherGloves_Beige",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -476,10 +404,7 @@
         {
           "ClassName": "LeatherGloves_Black",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -495,10 +420,7 @@
         {
           "ClassName": "LeatherGloves_Brown",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -519,10 +441,7 @@
         {
           "ClassName": "ImprovisedBag",
           "Chance": 0.5,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -543,10 +462,7 @@
         {
           "ClassName": "ChestHolster",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -561,10 +477,7 @@
                 {
                   "ClassName": "Magnum",
                   "Chance": 0.5,
-                  "Quantity": {
-                    "Min": 0.0,
-                    "Max": 0.0
-                  },
+                  "Quantity": {},
                   "Health": [
                     {
                       "Min": 0.2,
@@ -592,10 +505,7 @@
         {
           "ClassName": "Shovel",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -611,10 +521,7 @@
         {
           "ClassName": "FieldShovel",
           "Chance": 0.2,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -630,10 +537,7 @@
         {
           "ClassName": "Machete",
           "Chance": 0.5,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -654,10 +558,7 @@
         {
           "ClassName": "CowboyHat_Brown",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -673,10 +574,7 @@
         {
           "ClassName": "CowboyHat_black",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -692,10 +590,7 @@
         {
           "ClassName": "CowboyHat_darkBrown",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -711,10 +606,7 @@
         {
           "ClassName": "CowboyHat_green",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -734,10 +626,7 @@
     {
       "ClassName": "expansionsupplysignal",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -753,10 +642,7 @@
     {
       "ClassName": "ExpansionCarKey",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -772,10 +658,7 @@
     {
       "ClassName": "BandageDressing",
       "Chance": 1.0,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -791,10 +674,7 @@
     {
       "ClassName": "BandageDressing",
       "Chance": 0.3,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -810,10 +690,7 @@
     {
       "ClassName": "ExpansionCodeLock",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -829,10 +706,7 @@
     {
       "ClassName": "NailBox",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -848,10 +722,7 @@
     {
       "ClassName": "BakedBeansCan",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -867,10 +738,7 @@
     {
       "ClassName": "Lunchmeat",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -886,10 +754,7 @@
     {
       "ClassName": "PorkCan",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -905,10 +770,7 @@
     {
       "ClassName": "SodaCan_Pipsi",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -924,10 +786,7 @@
     {
       "ClassName": "SodaCan_Cola",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -943,10 +802,7 @@
     {
       "ClassName": "SodaCan_Spite",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -962,10 +818,7 @@
     {
       "ClassName": "SodaCan_Kvass",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -981,10 +834,7 @@
     {
       "ClassName": "SodaCan_Fronta",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1000,10 +850,7 @@
     {
       "ClassName": "Epinephrine",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1019,10 +866,7 @@
     {
       "ClassName": "Morphine",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1038,10 +882,7 @@
     {
       "ClassName": "PersonalRadio",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1057,10 +898,7 @@
     {
       "ClassName": "DuctTape",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1076,10 +914,7 @@
     {
       "ClassName": "WaterBottle",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1095,10 +930,7 @@
     {
       "ClassName": "Battery9V",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1114,10 +946,7 @@
     {
       "ClassName": "Whetstone",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1133,10 +962,7 @@
     {
       "ClassName": "SewingKit",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1152,10 +978,7 @@
     {
       "ClassName": "LeatherSewingKit",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1171,10 +994,7 @@
     {
       "ClassName": "WeaponCleaningKit",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1190,10 +1010,7 @@
     {
       "ClassName": "EpoxyPutty",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1209,10 +1026,7 @@
     {
       "ClassName": "OrienteeringCompass",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1228,10 +1042,7 @@
     {
       "ClassName": "ChernarusMap",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1247,10 +1058,7 @@
     {
       "ClassName": "Binoculars",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1266,10 +1074,7 @@
     {
       "ClassName": "Matchbox",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1285,10 +1090,7 @@
     {
       "ClassName": "PetrolLighter",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1304,10 +1106,7 @@
     {
       "ClassName": "Heatpack",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1323,10 +1122,7 @@
     {
       "ClassName": "SparkPlug",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1342,10 +1138,7 @@
     {
       "ClassName": "PurificationTablets",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1361,10 +1154,7 @@
     {
       "ClassName": "DisinfectantAlcohol",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1380,10 +1170,7 @@
     {
       "ClassName": "DisinfectantSpray",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1399,10 +1186,7 @@
     {
       "ClassName": "IodineTincture",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1418,10 +1202,7 @@
     {
       "ClassName": "Canteen",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1437,10 +1218,7 @@
     {
       "ClassName": "Rangefinder",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1455,10 +1233,7 @@
             {
               "ClassName": "Battery9V",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -1481,10 +1256,7 @@
     {
       "ClassName": "Compass",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1500,10 +1272,7 @@
     {
       "ClassName": "AmmoBox_380_35rnd",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1519,10 +1288,7 @@
     {
       "ClassName": "AmmoBox_9x19_25rnd",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1538,10 +1304,7 @@
     {
       "ClassName": "AmmoBox_45ACP_25rnd",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1557,10 +1320,7 @@
     {
       "ClassName": "AmmoBox_357_20Rnd",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1576,10 +1336,7 @@
     {
       "ClassName": "AmmoBox_00buck_10rnd",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1595,10 +1352,7 @@
     {
       "ClassName": "AmmoBox_12gaSlug_10Rnd",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1614,10 +1368,7 @@
     {
       "ClassName": "AmmoBox_308Win_20Rnd",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1633,10 +1384,7 @@
     {
       "ClassName": "fangeknife",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1652,10 +1400,7 @@
     {
       "ClassName": "crudemachete",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1671,10 +1416,7 @@
     {
       "ClassName": "crowbar",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1690,10 +1432,7 @@
     {
       "ClassName": "brassknuckles_dull",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1709,10 +1448,7 @@
     {
       "ClassName": "brassknuckles_shiny",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1728,10 +1464,7 @@
     {
       "ClassName": "hatchet",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1747,10 +1480,7 @@
     {
       "ClassName": "AmmoBox_762x39_20Rnd",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1766,10 +1496,7 @@
     {
       "ClassName": "AmmoBox_762x39Tracer_20Rnd",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1785,10 +1512,7 @@
     {
       "ClassName": "AmmoBox_545x39_20Rnd",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1804,10 +1528,7 @@
     {
       "ClassName": "AmmoBox_545x39Tracer_20Rnd",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1823,10 +1544,7 @@
     {
       "ClassName": "AmmoBox_762x54_20Rnd",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1842,10 +1560,7 @@
     {
       "ClassName": "AmmoBox_762x54Tracer_20Rnd",
       "Chance": 0.05,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [
         {
           "Min": 0.2,
@@ -1864,10 +1579,7 @@
     {
       "ClassName": "WEAPON",
       "Chance": 1.0,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [],
       "InventoryAttachments": [
         {
@@ -1876,10 +1588,7 @@
             {
               "ClassName": "repeater",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -1899,10 +1608,7 @@
         {
           "ClassName": "ammo_357",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -1918,10 +1624,7 @@
         {
           "ClassName": "ammo_357",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -1937,10 +1640,7 @@
         {
           "ClassName": "ammo_357",
           "Chance": 0.3,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -1960,10 +1660,7 @@
     {
       "ClassName": "WEAPON",
       "Chance": 1.0,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [],
       "InventoryAttachments": [
         {
@@ -1972,10 +1669,7 @@
             {
               "ClassName": "b95",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -1990,10 +1684,7 @@
                     {
                       "ClassName": "sportingoptic",
                       "Chance": 0.35,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -2008,10 +1699,7 @@
                             {
                               "ClassName": "Battery9V",
                               "Chance": 1.0,
-                              "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
-                              },
+                              "Quantity": {},
                               "Health": [
                                 {
                                   "Min": 0.2,
@@ -2034,10 +1722,7 @@
                     {
                       "ClassName": "huntingoptic",
                       "Chance": 0.2,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -2064,10 +1749,7 @@
         {
           "ClassName": "ammo_308win",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2083,10 +1765,7 @@
         {
           "ClassName": "ammo_308win",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2102,10 +1781,7 @@
         {
           "ClassName": "ammo_308win",
           "Chance": 0.3,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2125,10 +1801,7 @@
     {
       "ClassName": "WEAPON",
       "Chance": 1.0,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [],
       "InventoryAttachments": [
         {
@@ -2137,10 +1810,7 @@
             {
               "ClassName": "sks",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -2155,10 +1825,7 @@
                     {
                       "ClassName": "sks_bayonet",
                       "Chance": 0.35,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -2174,10 +1841,7 @@
                     {
                       "ClassName": "puscopeoptic",
                       "Chance": 0.4,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -2204,10 +1868,7 @@
         {
           "ClassName": "ammo_762x39",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2223,10 +1884,7 @@
         {
           "ClassName": "ammo_762x39",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2242,10 +1900,7 @@
         {
           "ClassName": "ammo_762x39",
           "Chance": 0.3,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2265,10 +1920,7 @@
     {
       "ClassName": "WEAPON",
       "Chance": 1.0,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [],
       "InventoryAttachments": [
         {
@@ -2277,10 +1929,7 @@
             {
               "ClassName": "cz527",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -2295,10 +1944,7 @@
                     {
                       "ClassName": "mag_cz527_5rnd",
                       "Chance": 1.0,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -2314,10 +1960,7 @@
                     {
                       "ClassName": "sportingoptic",
                       "Chance": 0.3,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -2332,10 +1975,7 @@
                             {
                               "ClassName": "Battery9V",
                               "Chance": 1.0,
-                              "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
-                              },
+                              "Quantity": {},
                               "Health": [
                                 {
                                   "Min": 0.2,
@@ -2358,10 +1998,7 @@
                     {
                       "ClassName": "huntingoptic",
                       "Chance": 0.35,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -2388,10 +2025,7 @@
         {
           "ClassName": "mag_cz527_5rnd",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2407,10 +2041,7 @@
         {
           "ClassName": "mag_cz527_5rnd",
           "Chance": 0.3,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2430,10 +2061,7 @@
     {
       "ClassName": "WEAPON",
       "Chance": 1.0,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [],
       "InventoryAttachments": [
         {
@@ -2442,10 +2070,7 @@
             {
               "ClassName": "ssg82",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -2460,10 +2085,7 @@
                     {
                       "ClassName": "mag_ssg82_5rnd",
                       "Chance": 1.0,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -2490,10 +2112,7 @@
         {
           "ClassName": "mag_ssg82_5rnd",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2509,10 +2128,7 @@
         {
           "ClassName": "mag_ssg82_5rnd",
           "Chance": 0.3,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2532,10 +2148,7 @@
     {
       "ClassName": "WEAPON",
       "Chance": 1.0,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [],
       "InventoryAttachments": [
         {
@@ -2544,10 +2157,7 @@
             {
               "ClassName": "mosin9130",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -2562,10 +2172,7 @@
                     {
                       "ClassName": "mosin_bayonet",
                       "Chance": 0.35,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -2581,10 +2188,7 @@
                     {
                       "ClassName": "mosin_compensator",
                       "Chance": 0.2,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -2600,10 +2204,7 @@
                     {
                       "ClassName": "puscopeoptic",
                       "Chance": 0.4,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -2630,10 +2231,7 @@
         {
           "ClassName": "ammo_762x54",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2649,10 +2247,7 @@
         {
           "ClassName": "ammo_762x54",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2668,10 +2263,7 @@
         {
           "ClassName": "ammo_762x54",
           "Chance": 0.3,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2691,10 +2283,7 @@
     {
       "ClassName": "WEAPON",
       "Chance": 1.0,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [],
       "InventoryAttachments": [
         {
@@ -2703,10 +2292,7 @@
             {
               "ClassName": "expansion_kar98",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -2721,10 +2307,7 @@
                     {
                       "ClassName": "expansion_kar98_bayonet",
                       "Chance": 0.35,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -2740,10 +2323,7 @@
                     {
                       "ClassName": "expansionkar98scopeoptic",
                       "Chance": 0.35,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -2770,10 +2350,7 @@
         {
           "ClassName": "expansion_ammo_8mm",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2789,10 +2366,7 @@
         {
           "ClassName": "expansion_ammo_8mm",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2808,10 +2382,7 @@
         {
           "ClassName": "expansion_ammo_8mm",
           "Chance": 0.3,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2831,10 +2402,7 @@
     {
       "ClassName": "WEAPON",
       "Chance": 1.0,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [],
       "InventoryAttachments": [
         {
@@ -2843,10 +2411,7 @@
             {
               "ClassName": "expansion_dt11",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -2866,10 +2431,7 @@
         {
           "ClassName": "ammo_12gapellets",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2885,10 +2447,7 @@
         {
           "ClassName": "ammo_12gapellets",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2904,10 +2463,7 @@
         {
           "ClassName": "ammo_12gaslug",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2923,10 +2479,7 @@
         {
           "ClassName": "ammo_12gaslug",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -2946,10 +2499,7 @@
     {
       "ClassName": "WEAPON",
       "Chance": 1.0,
-      "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
-      },
+      "Quantity": {},
       "Health": [],
       "InventoryAttachments": [
         {
@@ -2958,10 +2508,7 @@
             {
               "ClassName": "mp133shotgun",
               "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
+              "Quantity": {},
               "Health": [
                 {
                   "Min": 0.2,
@@ -2976,10 +2523,7 @@
                     {
                       "ClassName": "fnp45_mrdsoptic",
                       "Chance": 0.25,
-                      "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                      },
+                      "Quantity": {},
                       "Health": [
                         {
                           "Min": 0.2,
@@ -2994,10 +2538,7 @@
                             {
                               "ClassName": "Battery9V",
                               "Chance": 1.0,
-                              "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
-                              },
+                              "Quantity": {},
                               "Health": [
                                 {
                                   "Min": 0.2,
@@ -3031,10 +2572,7 @@
         {
           "ClassName": "ammo_12gapellets",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -3050,10 +2588,7 @@
         {
           "ClassName": "ammo_12gapellets",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -3069,10 +2604,7 @@
         {
           "ClassName": "ammo_12gaslug",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
@@ -3088,10 +2620,7 @@
         {
           "ClassName": "ammo_12gaslug",
           "Chance": 1.0,
-          "Quantity": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
+          "Quantity": {},
           "Health": [
             {
               "Min": 0.2,
